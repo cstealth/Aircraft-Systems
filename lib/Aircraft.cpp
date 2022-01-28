@@ -9,6 +9,5 @@
  */
 void Aircraft::rotate(Eigen::Vector3d euler_Angles)
 {
-    Eigen::Matrix<double, 3, 3> rotation {{cos()},{},{};{},{},{};{},{},{}};
     
 }
