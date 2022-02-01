@@ -6,7 +6,6 @@ This Repo contains basic tools for aircraft dynamic and control system simulatio
 - Eigen and sciplot Libraries
 - CMake integration
 - Runge-Kutta ODE Solver
-- Helper function namespace with a to file helper for Eigen::matrix
 - A very rough aircraft class, unlikely to stay the same
 
 ## Current usage (for linux)
