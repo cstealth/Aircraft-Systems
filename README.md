@@ -6,7 +6,7 @@ This Repo contains basic tools for aircraft dynamic and control system simulatio
 - Eigen and sciplot Libraries
 - CMake integration
 - Runge-Kutta ODE Solver
-- A very rough aircraft class, unlikely to stay the same
+- Wind to Body and Body to Wind axis transforms
 
 ## Current usage (for linux)
 1. Edit src/main.cpp to do what you need
