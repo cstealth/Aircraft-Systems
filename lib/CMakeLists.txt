@@ -1,4 +1,4 @@
-add_library(Aero EulerAngles.cpp EulerAngles.h ODEsolver.cpp ODEsolver.h Aircraft.cpp Aircraft.h Helpers.cpp Helpers.h)
+add_library(Aero EulerAngles.cpp EulerAngles.h ODEsolver.cpp ODEsolver.h Aircraft.cpp Aircraft.h Helpers.cpp Helpers.h Transforms.h)
 
 target_include_directories(Aero 
                            INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
