@@ -34,5 +34,8 @@
 # Build Directory 
 /build 
 
-#vscode stuff
+# Vscode
 /.vscode
+
+# Main.cpp
+src/Main.cpp
